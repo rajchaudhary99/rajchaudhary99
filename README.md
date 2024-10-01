@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raj-vardhan-chaudhary-2b9070223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-vardhan-chaudhary" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/raj-vardhan-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raj-vardhan-chaudhary" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25708436/raj-vardhan-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raj-vardhan-chaudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/raj_vardhan_chaudhary_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_vardhan_chaudhary_99" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rajvardhan_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajvardhan_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aimlb_21b1531064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aimlb_21b1531064" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aimlb_21b1531064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aimlb_21b1531064" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajvardhan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajvardhan_01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajvardhanchaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajvardhanchaudhary" height="30" width="40" /></a>
 </p>
