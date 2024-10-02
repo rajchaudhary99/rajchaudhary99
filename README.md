@@ -34,6 +34,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajchaudhary99&show_icons=true&locale=en&layout=compact" alt="rajchaudhary99" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajchaudhary99)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajchaudhary99&show_icons=true&locale=en" alt="rajchaudhary99" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rajvardhanr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajvardhanr" /></a></p><br><br>
