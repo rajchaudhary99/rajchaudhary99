@@ -34,7 +34,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajchaudhary99&show_icons=true&locale=en&layout=compact" alt="rajchaudhary99" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rajchaudhary99&theme=navy-gear&hide_border=true&card_width=562&type=png)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajchaudhary99&" alt="rajchaudhary99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajchaudhary99&show_icons=true&locale=en" alt="rajchaudhary99" /></p>
 <h3 align="left">Support:</h3>
