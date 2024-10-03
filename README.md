@@ -72,16 +72,18 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajchaudhary99&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajchaudhary99&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px; margin-top: 20px;" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajchaudhary99&" alt="Streak Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajchaudhary99&" alt="Streak Stats" style="height: 200px; margin-top: 20px;" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajchaudhary99&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajchaudhary99&show_icons=true&locale=en" alt="GitHub Stats" style="height: 200px; margin-top: 20px;" />
 </p>
+
+
 
 ---
 
