@@ -72,7 +72,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajchaudhary99&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px; margin-top: 20px;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajchaudhary99&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px; margin-bottom: 20px;" />
 </p>
 
 <p>
