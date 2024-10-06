@@ -4,11 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg" />
 
-<p align="left">
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-    </a>
-</p>
+
 
 - 🌱 I’m currently learning **full stack development**
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-page-two-lyart.vercel.app/)
