@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **full stack development**
-- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-page-two-lyart.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://aboutme-rajvardhan.netlify.app/)
 - 📫 How to reach me: **rajvardhanchaudhary666@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10G8_HE8zijKQwcTiK7rflRuhOn5pGMyO/view?usp=drive_link)
 
