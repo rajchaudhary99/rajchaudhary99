@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg" />
 
 - 🌱 I’m currently learning **full stack development**
-- 👨‍💻 All of my projects are available on [my portfolio](portfolio-app-teal-psi.vercel.app/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://portfolio-app-teal-psi.vercel.app/)
 - 📫 How to reach me: **rajvardhanchaudhary666@gmail.com**
 - 📄 Learn more about my experience: [Resume](https://drive.google.com/file/d/10G8_HE8zijKQwcTiK7rflRuhOn5pGMyO/view?usp=drive_link)
 
